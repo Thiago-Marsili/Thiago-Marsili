@@ -8,7 +8,7 @@ I started learning web development in 2022 through a free government course, as 
 
 My main objective is to be able to become full stack and to be able to work on what I like, which is programming.
 
-Check out my portfolio 👉  <pre>Web: thiago-marsili.github.io/portfolio-en/ <br>Repo:https://github.com/Thiago-Marsili/portfolio-en</pre>
+Check out my portfolio 👉  <pre>Web: https://thiago-marsili.github.io/portfolio-en/ <br>Repo: https://github.com/Thiago-Marsili/portfolio-en</pre>
 
 ---
 
