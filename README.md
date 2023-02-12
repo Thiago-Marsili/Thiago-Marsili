@@ -1,8 +1,6 @@
 # Hi there! 👋🏻 I am Thiago Marsili!
 
-```
-"Do it with passion, or don't do it."
-```
+
 
 Hello! My name is Thiago Marsili, I'm from Buenos Aires, Argentina. I am currently studying upper secondary, specifically the 5th year. I am a very responsible and applied boy.
 
