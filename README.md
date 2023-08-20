@@ -2,13 +2,12 @@
 
 
 
-Hello! My name is Thiago Marsili, I'm from Buenos Aires, Argentina. I am currently studying upper secondary, specifically the 5th year. I am a very responsible and applied boy.
-
-I started learning web development in 2022 through a free government course, as I loved it, I decided to invest in a paid course from the CoderHouse page. With a lot of effort I managed to get certified and now I'm starting the JavaScript course.
+Hello! My name is Thiago Marsili, I'm from Buenos Aires, Argentina. I am a very responsible and applied boy.
 
 My main objective is to be able to become full stack and to be able to work on what I like, which is programming.
 
 Check out my portfolio 👉  <pre>Web: https://thiago-marsili.github.io/portfolio-en/ <br>Repo: https://github.com/Thiago-Marsili/portfolio-en</pre>
+My Store:https://dtprogramming.store/
 
 ---
 
@@ -16,6 +15,7 @@ Check out my portfolio 👉  <pre>Web: https://thiago-marsili.github.io/portfoli
 * HTML
 * CSS
 * JavaScript / React
+* Python
 * NodeJS / Express
 * SQL / MongoDB
 
